@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-color: rgb(46, 46, 46);
+  
+}
+
+.page-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

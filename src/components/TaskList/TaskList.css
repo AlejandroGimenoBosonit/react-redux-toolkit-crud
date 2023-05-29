@@ -1,0 +1,20 @@
+.list-container {
+    width: 500px;
+    height: auto;
+}
+.task-item{
+    margin: 20px;
+    border-radius: 10px;
+    border-color: azure 1px;
+}
+.badge{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.task-button{
+    margin: 0;
+}

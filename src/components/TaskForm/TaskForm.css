@@ -1,0 +1,17 @@
+.card-container{
+    margin-top: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+input , textarea{
+    margin: 5px;
+}
+
+button {
+    margin-top: 10px;
+}
